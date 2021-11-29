@@ -25,7 +25,7 @@ A dataset is about the real estate in Riyadh(Shops for rent), the dataset contai
 
 * Data type: text , integer.
 
-* Data source: The original source for this data is <a href="https://sa.aqar.fm/">here</a> .
+* Data source: The original source for this data is <a href="https://sa.aqar.fm/">Aqar</a> .
 
 
 
