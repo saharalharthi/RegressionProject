@@ -1,5 +1,5 @@
 
-<img src="https://user-images.githubusercontent.com/93095814/143900038-2aa555f0-3edb-4111-ae09-4690a9010eff.jpg" width="300" heigh="300" />
+<img src="https://user-images.githubusercontent.com/93095814/143900038-2aa555f0-3edb-4111-ae09-4690a9010eff.jpg" width="400" heigh="400" />
 
 
 ## Problem statement:
@@ -36,9 +36,7 @@ A dataset is about the real estate in Riyadh(Shops for rent), the dataset contai
 
 * Libraries:  Pandas - Plotly - BeautifulSoup - zip_longest- requests - csv  .
 
-* Functions: Web Scraping - Regression .
-
-* Plots: BarChart plot , Scatter Plot.
+* Technologies: Web Scraping - Regression .
 
 
 
