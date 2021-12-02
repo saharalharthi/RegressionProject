@@ -34,7 +34,7 @@ A dataset is about the real estate in Riyadh(Shops for rent), the dataset contai
 
 * Programs:  Jupyter.
 
-* Libraries:  Pandas - Plotly - BeautifulSoup - zip_longest- requests - csv  .
+* Libraries: numpy -Pandas - Plotly - BeautifulSoup - zip_longest- requests - csv  .
 
 * Technologies: Web Scraping - Regression .
 
