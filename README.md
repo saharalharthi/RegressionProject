@@ -40,6 +40,6 @@ A dataset is about the real estate in Riyadh(Shops for rent), the dataset contai
 
 
 
-## MVP Goal:
+## Goal:
 Helping the investor to increase the accuracy of the feasibility study by predicting the
 price of the desired real estate.
